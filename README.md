@@ -6,3 +6,6 @@ npm install
 and also for backend 
 npm install
 npm start
+
+
+also craete a env file in main directary 
